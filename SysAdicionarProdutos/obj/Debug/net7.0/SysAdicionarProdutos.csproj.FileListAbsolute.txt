@@ -1,0 +1,15 @@
+C:\Users\DudsS\Desktop\PASTA E\ESTUDOS PROGRAMAÇÃO\C#\PROJETOS - ESTUDOS\SysAdicionarProdutos\SysAdicionarProdutos\bin\Debug\net7.0\SysAdicionarProdutos.exe
+C:\Users\DudsS\Desktop\PASTA E\ESTUDOS PROGRAMAÇÃO\C#\PROJETOS - ESTUDOS\SysAdicionarProdutos\SysAdicionarProdutos\bin\Debug\net7.0\SysAdicionarProdutos.deps.json
+C:\Users\DudsS\Desktop\PASTA E\ESTUDOS PROGRAMAÇÃO\C#\PROJETOS - ESTUDOS\SysAdicionarProdutos\SysAdicionarProdutos\bin\Debug\net7.0\SysAdicionarProdutos.runtimeconfig.json
+C:\Users\DudsS\Desktop\PASTA E\ESTUDOS PROGRAMAÇÃO\C#\PROJETOS - ESTUDOS\SysAdicionarProdutos\SysAdicionarProdutos\bin\Debug\net7.0\SysAdicionarProdutos.dll
+C:\Users\DudsS\Desktop\PASTA E\ESTUDOS PROGRAMAÇÃO\C#\PROJETOS - ESTUDOS\SysAdicionarProdutos\SysAdicionarProdutos\bin\Debug\net7.0\SysAdicionarProdutos.pdb
+C:\Users\DudsS\Desktop\PASTA E\ESTUDOS PROGRAMAÇÃO\C#\PROJETOS - ESTUDOS\SysAdicionarProdutos\SysAdicionarProdutos\obj\Debug\net7.0\SysAdicionarProdutos.csproj.AssemblyReference.cache
+C:\Users\DudsS\Desktop\PASTA E\ESTUDOS PROGRAMAÇÃO\C#\PROJETOS - ESTUDOS\SysAdicionarProdutos\SysAdicionarProdutos\obj\Debug\net7.0\SysAdicionarProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DudsS\Desktop\PASTA E\ESTUDOS PROGRAMAÇÃO\C#\PROJETOS - ESTUDOS\SysAdicionarProdutos\SysAdicionarProdutos\obj\Debug\net7.0\SysAdicionarProdutos.AssemblyInfoInputs.cache
+C:\Users\DudsS\Desktop\PASTA E\ESTUDOS PROGRAMAÇÃO\C#\PROJETOS - ESTUDOS\SysAdicionarProdutos\SysAdicionarProdutos\obj\Debug\net7.0\SysAdicionarProdutos.AssemblyInfo.cs
+C:\Users\DudsS\Desktop\PASTA E\ESTUDOS PROGRAMAÇÃO\C#\PROJETOS - ESTUDOS\SysAdicionarProdutos\SysAdicionarProdutos\obj\Debug\net7.0\SysAdicionarProdutos.csproj.CoreCompileInputs.cache
+C:\Users\DudsS\Desktop\PASTA E\ESTUDOS PROGRAMAÇÃO\C#\PROJETOS - ESTUDOS\SysAdicionarProdutos\SysAdicionarProdutos\obj\Debug\net7.0\SysAdicionarProdutos.dll
+C:\Users\DudsS\Desktop\PASTA E\ESTUDOS PROGRAMAÇÃO\C#\PROJETOS - ESTUDOS\SysAdicionarProdutos\SysAdicionarProdutos\obj\Debug\net7.0\refint\SysAdicionarProdutos.dll
+C:\Users\DudsS\Desktop\PASTA E\ESTUDOS PROGRAMAÇÃO\C#\PROJETOS - ESTUDOS\SysAdicionarProdutos\SysAdicionarProdutos\obj\Debug\net7.0\SysAdicionarProdutos.pdb
+C:\Users\DudsS\Desktop\PASTA E\ESTUDOS PROGRAMAÇÃO\C#\PROJETOS - ESTUDOS\SysAdicionarProdutos\SysAdicionarProdutos\obj\Debug\net7.0\SysAdicionarProdutos.genruntimeconfig.cache
+C:\Users\DudsS\Desktop\PASTA E\ESTUDOS PROGRAMAÇÃO\C#\PROJETOS - ESTUDOS\SysAdicionarProdutos\SysAdicionarProdutos\obj\Debug\net7.0\ref\SysAdicionarProdutos.dll
